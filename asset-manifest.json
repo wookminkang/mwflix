@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mwflix/static/css/main.e6c13ad2.css",
+    "main.js": "/mwflix/static/js/main.81eb9378.js",
+    "static/js/787.20e5b628.chunk.js": "/mwflix/static/js/787.20e5b628.chunk.js",
+    "index.html": "/mwflix/index.html",
+    "main.e6c13ad2.css.map": "/mwflix/static/css/main.e6c13ad2.css.map",
+    "main.81eb9378.js.map": "/mwflix/static/js/main.81eb9378.js.map",
+    "787.20e5b628.chunk.js.map": "/mwflix/static/js/787.20e5b628.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.81eb9378.js"
+  ]
+}
